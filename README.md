@@ -7,6 +7,6 @@ Hello! I'm Hamilton, a technology lover, you will find here repositories with a 
  - [Twitter](https://twitter.com/ha_urbano)
  - [Linkedin](https://www.linkedin.com/in/haurbano/)
  - [HackerRank](https://www.hackerrank.com/haurbano_dev)
- - [My WIP WebPage](https://haurbano.github.io/personal-page-react/) 
+ - [My WIP WebPage](https://haurbano.github.io/home/) 
 
  **Feel free to reach out to me if you have an interesting tech challenge in Android!**
